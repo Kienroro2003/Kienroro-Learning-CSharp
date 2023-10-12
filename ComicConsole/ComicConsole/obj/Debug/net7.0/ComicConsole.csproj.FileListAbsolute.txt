@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/bin/Debug/net7.0/ComicConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/bin/Debug/net7.0/ComicConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/bin/Debug/net7.0/ComicConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/bin/Debug/net7.0/ComicConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/bin/Debug/net7.0/ComicConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/refint/ComicConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ComicConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ComicConsole/ComicConsole/obj/Debug/net7.0/ref/ComicConsole.dll

@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/bin/Debug/net7.0/PaintballGunConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/bin/Debug/net7.0/PaintballGunConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/bin/Debug/net7.0/PaintballGunConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/bin/Debug/net7.0/PaintballGunConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/bin/Debug/net7.0/PaintballGunConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/refint/PaintballGunConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/PaintballGunConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/PaintballGunConsole/PaintballGunConsole/obj/Debug/net7.0/ref/PaintballGunConsole.dll

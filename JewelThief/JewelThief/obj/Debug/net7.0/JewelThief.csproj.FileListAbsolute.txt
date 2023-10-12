@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/bin/Debug/net7.0/JewelThief
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/bin/Debug/net7.0/JewelThief.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/bin/Debug/net7.0/JewelThief.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/bin/Debug/net7.0/JewelThief.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/bin/Debug/net7.0/JewelThief.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/refint/JewelThief.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/JewelThief.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JewelThief/JewelThief/obj/Debug/net7.0/ref/JewelThief.dll

@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/bin/Debug/net7.0/EnumConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/bin/Debug/net7.0/EnumConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/bin/Debug/net7.0/EnumConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/bin/Debug/net7.0/EnumConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/bin/Debug/net7.0/EnumConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/refint/EnumConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/EnumConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/EnumConsole/EnumConsole/obj/Debug/net7.0/ref/EnumConsole.dll

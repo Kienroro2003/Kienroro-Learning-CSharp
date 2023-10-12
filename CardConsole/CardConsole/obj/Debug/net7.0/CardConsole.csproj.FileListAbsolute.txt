@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/bin/Debug/net7.0/CardConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/bin/Debug/net7.0/CardConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/bin/Debug/net7.0/CardConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/bin/Debug/net7.0/CardConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/bin/Debug/net7.0/CardConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/refint/CardConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/CardConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/CardConsole/CardConsole/obj/Debug/net7.0/ref/CardConsole.dll

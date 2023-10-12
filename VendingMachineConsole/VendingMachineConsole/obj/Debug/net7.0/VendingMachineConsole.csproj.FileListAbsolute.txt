@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/bin/Debug/net7.0/VendingMachineConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/bin/Debug/net7.0/VendingMachineConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/bin/Debug/net7.0/VendingMachineConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/bin/Debug/net7.0/VendingMachineConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/bin/Debug/net7.0/VendingMachineConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/refint/VendingMachineConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/VendingMachineConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/VendingMachineConsole/VendingMachineConsole/obj/Debug/net7.0/ref/VendingMachineConsole.dll

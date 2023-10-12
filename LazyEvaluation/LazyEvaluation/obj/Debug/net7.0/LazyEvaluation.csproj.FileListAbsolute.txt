@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/bin/Debug/net7.0/LazyEvaluation
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/bin/Debug/net7.0/LazyEvaluation.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/bin/Debug/net7.0/LazyEvaluation.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/bin/Debug/net7.0/LazyEvaluation.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/bin/Debug/net7.0/LazyEvaluation.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/refint/LazyEvaluation.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/LazyEvaluation.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LazyEvaluation/LazyEvaluation/obj/Debug/net7.0/ref/LazyEvaluation.dll

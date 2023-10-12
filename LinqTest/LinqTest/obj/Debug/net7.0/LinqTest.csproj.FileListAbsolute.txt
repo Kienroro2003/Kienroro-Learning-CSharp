@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/bin/Debug/net7.0/LinqTest
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/bin/Debug/net7.0/LinqTest.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/bin/Debug/net7.0/LinqTest.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/bin/Debug/net7.0/LinqTest.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/bin/Debug/net7.0/LinqTest.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/refint/LinqTest.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/LinqTest.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/LinqTest/LinqTest/obj/Debug/net7.0/ref/LinqTest.dll
