@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/bin/Debug/net7.0/JimmyLinq
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/bin/Debug/net7.0/JimmyLinq.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/bin/Debug/net7.0/JimmyLinq.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/bin/Debug/net7.0/JimmyLinq.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/bin/Debug/net7.0/JimmyLinq.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/refint/JimmyLinq.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/JimmyLinq.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JimmyLinq/JimmyLinq/obj/Debug/net7.0/ref/JimmyLinq.dll
