@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jATCNqJ9IlN8FvxpO3LeGRXBRe9lTV7puu5iJowU3CUYjRIdI86bjPt7trVtAJjDf0hlTUXS4XVwa6pGBVjEBw==",
+  "success": true,
+  "projectFilePath": "/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/GoFish/GoFish/GoFish.csproj",
+  "expectedPackageFiles": [
+    "/Users/kienroro2003/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/kienroro2003/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/kienroro2003/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
