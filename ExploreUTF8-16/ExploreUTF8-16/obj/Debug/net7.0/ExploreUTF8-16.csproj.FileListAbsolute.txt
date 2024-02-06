@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/bin/Debug/net7.0/ExploreUTF8-16
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/bin/Debug/net7.0/ExploreUTF8-16.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/bin/Debug/net7.0/ExploreUTF8-16.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/bin/Debug/net7.0/ExploreUTF8-16.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/bin/Debug/net7.0/ExploreUTF8-16.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/refint/ExploreUTF8-16.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ExploreUTF8-16.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/ExploreUTF8-16/ExploreUTF8-16/obj/Debug/net7.0/ref/ExploreUTF8-16.dll

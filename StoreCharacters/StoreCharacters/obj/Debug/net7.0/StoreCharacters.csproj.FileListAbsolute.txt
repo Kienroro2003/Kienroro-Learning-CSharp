@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/bin/Debug/net7.0/StoreCharacters
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/bin/Debug/net7.0/StoreCharacters.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/bin/Debug/net7.0/StoreCharacters.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/bin/Debug/net7.0/StoreCharacters.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/bin/Debug/net7.0/StoreCharacters.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/refint/StoreCharacters.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/StoreCharacters.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StoreCharacters/StoreCharacters/obj/Debug/net7.0/ref/StoreCharacters.dll

@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/bin/Debug/net7.0/JsonSerializerExercise
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/bin/Debug/net7.0/JsonSerializerExercise.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/bin/Debug/net7.0/JsonSerializerExercise.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/bin/Debug/net7.0/JsonSerializerExercise.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/bin/Debug/net7.0/JsonSerializerExercise.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/refint/JsonSerializerExercise.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/JsonSerializerExercise.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializerExercise/JsonSerializerExercise/obj/Debug/net7.0/ref/JsonSerializerExercise.dll

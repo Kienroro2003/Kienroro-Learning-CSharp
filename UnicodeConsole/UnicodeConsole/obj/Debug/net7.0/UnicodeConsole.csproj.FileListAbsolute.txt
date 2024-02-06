@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/bin/Debug/net7.0/UnicodeConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/bin/Debug/net7.0/UnicodeConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/bin/Debug/net7.0/UnicodeConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/bin/Debug/net7.0/UnicodeConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/bin/Debug/net7.0/UnicodeConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/refint/UnicodeConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/UnicodeConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/UnicodeConsole/UnicodeConsole/obj/Debug/net7.0/ref/UnicodeConsole.dll

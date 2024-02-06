@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/bin/Debug/net7.0/JsonSerializationConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/bin/Debug/net7.0/JsonSerializationConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/bin/Debug/net7.0/JsonSerializationConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/bin/Debug/net7.0/JsonSerializationConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/bin/Debug/net7.0/JsonSerializationConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/refint/JsonSerializationConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/JsonSerializationConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/JsonSerializationConsole/JsonSerializationConsole/obj/Debug/net7.0/ref/JsonSerializationConsole.dll

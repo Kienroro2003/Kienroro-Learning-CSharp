@@ -1,0 +1,15 @@
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/bin/Debug/net7.0/StreamReaderConsole
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/bin/Debug/net7.0/StreamReaderConsole.deps.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/bin/Debug/net7.0/StreamReaderConsole.runtimeconfig.json
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/bin/Debug/net7.0/StreamReaderConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/bin/Debug/net7.0/StreamReaderConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.AssemblyInfoInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.AssemblyInfo.cs
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/refint/StreamReaderConsole.dll
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.pdb
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/StreamReaderConsole.genruntimeconfig.cache
+/Users/kienroro2003/Documents/My_MacOS/Program_language/C#/code/StreamReaderConsole/StreamReaderConsole/obj/Debug/net7.0/ref/StreamReaderConsole.dll
